@@ -1,0 +1,17 @@
+Testando o HTML
+<div>
+    <p>Meu primeiro texto em HTML bla2bla</p>
+    <p>Meu primeiro texto em HTML bla2bla</p>
+</div>
+<div>
+    <h1>Clique no Link:</h1>
+    <a href="https://www.youtube.com"target="_blank">Ir para o YouTube</a>
+</div>
+<div>
+    <a href="https://www.google.com"target="_blank">Ir para o Google</a>
+</div>
+<div>
+    <a href="https://www.eletrojr.com.br"target="_blank">Ir para o site da EletroJr</a>
+</div>
+
+<img scr="http://lh6.ggpht.com/-S90lxAgMLb8/TyCaM_PyWiI/AAAAAAAAQ7I/4A7-R7psFmI/image%25255B5%25255D.png?imgmax=800"alt="calculo">
