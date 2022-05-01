@@ -1,0 +1,91 @@
+html{
+    font-family: Helvetica;
+    background-image: linear-gradient(to right, #545454,#365b6d )
+}
+
+.container{
+    max-width: 1200px;
+    background-color: #f1f1f1;
+    position:relative;
+    margin-left:auto;
+    margin-right:auto;
+    padding: 20px 50px;
+    margin-top:50px;
+    margin-bottom:50px;
+    border-radius: 3px;
+}
+
+.destaque {
+    font-weight: bold;
+}
+
+/*cabeçalho*/
+
+.cabeçalho{
+    text-align:center;
+}
+
+.titulo-principal{
+    font-size:40px;
+}
+
+.paragrafo-principal{
+    font-style:italic;
+}
+
+/*Corpo do Site*/
+
+.img-destaque{
+    text-align: center;
+    margin-top:10px;
+}
+
+/*Biografia container*/
+.biografia-container{
+    padding: 25px 0;
+    margin:25px 0;
+    border-top:1px solid rgba(43, 23, 23, 0.205);
+    border-bottom: 1px solid rgba(43, 23, 23, 0.205);
+}
+
+/*Citação*/
+
+.frase-container{
+    background-color: #6281b3;
+    padding: 30px;
+    text-align: center;
+}
+
+
+/*pode ser .blockquote (pois inseri uma class no blockquote) ou .frase-container blockquote, ja que o blockquote esta dentro da div */
+
+.blockquote{
+    font-weight: 600; /*600 equivale ao bold, ou seja, negrito*/
+    font-size: 30px; 
+}
+
+/*da mesma forma que o blockquote, posso escrever  .frase-container p, nesse caso nao coloquei uma class no p, mas poderia ter colocado */
+.frase-container p{
+    font-style: italic;
+}
+
+/*Curiosidades*/
+
+.curiosidades-container{
+    padding: 25px 0;
+    margin:25px 0;
+    border-top:1px solid rgba(43, 23, 23, 0.205);
+    border-bottom: 1px solid rgba(43, 23, 23, 0.205);
+}
+
+.curiosidades-container li{
+    height: 30px;
+}
+
+.img-1{
+    border-radius: 60px;
+ }
+
+.img-2{
+   border-radius: 60px;
+}
